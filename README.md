@@ -9,6 +9,8 @@ The script is designed to be easy to understand and integrate into your own proj
 - Loading animations with a rotating icon
 - Color-coded output for easy readability
 
+> For the progress bars to be correctly displayed, you'll need a font supporting the Unicode symbols from `EE00` to `EE15`, like [FiraCode v6](https://github.com/tonsky/FiraCode).
+
 ![Screenshot of the first progress bar](Screenshot.png)
 
 ## Usage
