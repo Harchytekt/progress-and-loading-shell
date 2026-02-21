@@ -9,6 +9,8 @@ The script is designed to be easy to understand and integrate into your own proj
 - Loading animations with a rotating icon
 - Color-coded output for easy readability
 
+![Screenshot of the first progress bar](Screenshot.png)
+
 ## Usage
 
 - Clone the repository:
